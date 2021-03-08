@@ -2,5 +2,5 @@
 
 Project of Course. Google Clone
 
-In this project i develop a clone of google's page web, using HTML and CSS.
-The main goal to do this course is for practiving my skills in HTML and CSS.
+In this project I developed a clone of google's page web, using HTML and CSS.
+The main goal to do this course is for practicing my software skills in HTML and CSS.
